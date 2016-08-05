@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ProgressHUD : UIView
-
+////////
 + (void)showOnView:(UIView *)view;
 
 + (void)hideAfterSuccessOnView:(UIView *)view;
